@@ -1,5 +1,4 @@
 # How-to-explode-the-pie-chart-slice-in-WinUI-SfCircularChart
-This sample demonstrates how to visualize the exploded segment in the pie chart in WinUI.
 The WinUi Chart provides a simple way to achieve specific visual effects by exploding segments in a pie Chart. You can control the explosion of a particular data point’s segment by adjusting the ExplodeIndex property of the chart series. Additionally, the ExplodeRadius property allows you to define how far the segment will be exploded from the center of the chart.The ExplodeOnTap property enables the segments to be exploded when they are touched or clicked by the user. The following code example demonstrates how to explode the segment in the pie chart:
 
 **XAML**
