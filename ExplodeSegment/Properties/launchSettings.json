@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "ExplodeSegmentWinUi1 (Package)": {
+    "ExplodeSegment (Package)": {
       "commandName": "MsixPackage"
     },
-    "ExplodeSegmentWinUi1 (Unpackaged)": {
+    "ExplodeSegment (Unpackaged)": {
       "commandName": "Project"
     }
   }
