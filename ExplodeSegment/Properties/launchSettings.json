@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExplodeSegment (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ExplodeSegment (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
