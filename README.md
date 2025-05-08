@@ -36,3 +36,8 @@ You can refer to our WinUI Cartesian Chart feature tour page to know about its o
 For current customers, you can check out our WinUI Controls from the License and Downloads page. If you are new to Syncfusion, you can try our 30-day free trial to check out our WinUI Cartesian Chart and other .WinUI controls.
 
 If you have any queries or require clarifications, please let us know in comments below. You can also contact us through our support forums, Direct-Trac, or feedback portal. We are always happy to assist you!
+
+**Output:**
+![explode the pie chart](https://github.com/user-attachments/assets/a7696235-9817-4d0b-a0ea-0eac3ba25b4d)
+
+**KB article** - ![How to explode the pie chart slice in WinUI SfCircularChart](https://support.syncfusion.com/kb/article/12987/how-to-explode-the-pie-chart-slice-in-winui-chart-sfcircularchart)
