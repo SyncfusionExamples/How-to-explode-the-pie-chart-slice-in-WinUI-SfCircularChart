@@ -40,4 +40,4 @@ If you have any queries or require clarifications, please let us know in comment
 **Output:**
 ![explode the pie chart](https://github.com/user-attachments/assets/a7696235-9817-4d0b-a0ea-0eac3ba25b4d)
 
-**KB article** - ![How to explode the pie chart slice in WinUI SfCircularChart](https://support.syncfusion.com/kb/article/12987/how-to-explode-the-pie-chart-slice-in-winui-chart-sfcircularchart)
+**KB article** - [How to explode the pie chart slice in WinUI SfCircularChart](https://support.syncfusion.com/kb/article/12987/how-to-explode-the-pie-chart-slice-in-winui-chart-sfcircularchart)
